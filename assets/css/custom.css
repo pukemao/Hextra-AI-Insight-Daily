@@ -3,7 +3,7 @@
 /* =================================================================== */
 
 h1:first-of-type {
-  display: none;
+  /* display: none; */
 }
 
 code, kbd, samp, pre {
@@ -122,7 +122,7 @@ footer .hx-max-w-screen-xl{
 }
 
 .content blockquote p a {
-    display: none;
+    /* display: none; */
 }
 
 .hextra-max-footer-width {
